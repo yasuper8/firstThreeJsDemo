@@ -1,1 +1,1 @@
-# firstThreeJsGame
+# firstThreeJsDemo
